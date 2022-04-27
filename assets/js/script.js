@@ -52,7 +52,6 @@ function validatesRunlink() {
     }
     else{
         runOK = false
-        console.log('email does not validate')
     }
 }
 
